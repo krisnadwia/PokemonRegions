@@ -5,4 +5,4 @@ This app is similar to this [project](https://github.com/krisnadwia/pokemon-regi
 
 https://www.dicoding.com/academies/123
 
-Try this: https://krisnadwia.github.io/PokemonRegions
+Try this: https://krisnadwia.github.io/PokemonRegions/
